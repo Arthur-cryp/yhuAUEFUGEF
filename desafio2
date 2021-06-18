@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="styles/page/index.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blaze Song</title>
+</head>
+<body>
+<div class="status-bar">
+    <p class="status-bar__time"></p>music player</p>
+</div>
+<div class="bottom navbar">
+<p>Blaze-song</p>
+<div class="bottom navbar__icon"></div>
+<img src="./assets/icons/search.svg" alt="pesquisa">
+<p>search</p>
+<div class="bottom navbar__icon"></div>
+<img src="./assets/icons/more.svg" alt="mais">
+<p>more</p>
+
+</div>
+    
+</body>
+</html>
